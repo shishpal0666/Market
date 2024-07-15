@@ -19,10 +19,10 @@
             <!-- Your rows inside the table HERE: -->
             {% for item in items %}
                 <tr>
-                    <td>{{ item.id }}</td>
-                    <td>{{ item.name }}</td>
-                    <td>{{ item.barcode }}</td>
-                    <td>{{ item.price }}$</td>
+                    <td>{{ item[0] }}</td>
+                    <td>{{ item[1] }}</td>
+                    <td>{{ item[3] }}</td>
+                    <td>{{ item[2] }}$</td>
                     <td>
                         <button class="btn btn-outline btn-info">More Info</button>
                         <button class="btn btn-outline btn-success">Purchase this Item</button>
