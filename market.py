@@ -9,13 +9,24 @@ import os
 app = Flask(__name__)
 app.config['SECRET_KEY'] = os.urandom(24)
 
-# Define database connection function
+# Define database localhost connection function
+# def get_db_connection():
+#     conn = psycopg2.connect(
+#         database="FlaskMarket",
+#         user="postgres",
+#         password="password",
+#         host="localhost",
+#         port="5432"
+#     )
+#     return conn
+
+# Define database render.com connection function
 def get_db_connection():
     conn = psycopg2.connect(
-        database="FlaskMarket",
-        user="postgres",
-        password="password",
-        host="localhost",
+        database="market_grtj",
+        user="shishpal0666",
+        password="imRp8GfOA4VLPHeDutY0vaQIbnA4wtrs",
+        host="dpg-cqcviq9u0jms73e5h2rg-a.oregon-postgres.render.com",
         port="5432"
     )
     return conn
