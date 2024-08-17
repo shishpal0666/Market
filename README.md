@@ -69,35 +69,6 @@ Once the server is running, you can access the application in your web browser a
 
 For more detailed documentation on how to use and customize this application, please refer to the official [Flask documentation](https://flask.palletsprojects.com/).
 
-## Contributing
-
-We welcome contributions! Please fork this repository, create a new branch, and submit a pull request with your changes. Ensure that your code follows our coding standards and includes tests where applicable.
-
-1. Fork the repository.
-2. Create your feature branch:
-
-    ```bash
-    git checkout -b feature/new-feature
-    ```
-
-3. Commit your changes:
-
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-
-4. Push to the branch:
-
-    ```bash
-    git push origin feature/new-feature
-    ```
-
-5. Open a pull request.
-<!-- 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
-
 ## Contact Information
 
 For questions or collaboration requests, please reach out via [email](mailto:shishpalpolampally@gmail.com).
