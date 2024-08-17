@@ -93,11 +93,12 @@ We welcome contributions! Please fork this repository, create a new branch, and 
     ```
 
 5. Open a pull request.
-
+<!-- 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
 
 ## Contact Information
 
-For questions or collaboration requests, please reach out via email.
+For questions or collaboration requests, please reach out via [email](shishpalpolampally@gmail.com).
+ .
