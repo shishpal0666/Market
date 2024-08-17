@@ -100,5 +100,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 
-For questions or collaboration requests, please reach out via [email](shishpalpolampally@gmail.com).
- .
+For questions or collaboration requests, please reach out via [email](mailto:shishpalpolampally@gmail.com).
+
