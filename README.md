@@ -46,7 +46,7 @@ Make sure you have the following installed:
 4. Run the Flask application:
 
     ```bash
-    flask run
+    flask market
     ```
 
 ## Usage
